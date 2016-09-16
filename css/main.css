@@ -1,0 +1,175 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+	background-color:#D1F3F1;
+}
+.header {
+	font-family: 'Baloo Paaji', cursive;
+	color:white;
+	background-color:#18B7B5;
+	padding:1%;
+}
+
+span {
+	color:#FA617A;
+}
+.nav {
+	margin-top:2%;
+	margin-left:2%;
+}
+.menu-desplegable {
+	display:none;
+}
+.title {
+	margin-left:45%;
+}
+.menu {
+	color:white;
+	text-decoration:none;
+	font-family: 'Prompt', sans-serif;
+	font-weight:lighter;
+	margin-left:2%;
+}
+
+/*estilos foto conejo*/
+.bigbun {
+	background:url(../img/img-1.jpg);
+	background-size:110%;
+	background-position:center 10%;
+	padding:4% 8%;
+}
+.transparente {
+	background-color:#18B7B5;
+	opacity:0.7;
+	padding-top:5%;
+	height:250px;
+	text-align:center;
+	font-family: 'Baloo Paaji', cursive;
+	font-size:40px;
+	color:#FA617A;
+}
+.live {
+	color:white;
+	font-family: 'Prompt', sans-serif;
+	font-weight:lighter;
+	font-size:20px;
+}
+.fondoblanco {
+	background-color:white;
+	padding:1%;
+}
+.foto-pequeña {
+	width:100%;
+}
+.caja {
+	background-color:#18B7B5;
+	height:400px;
+	border:3px solid white;
+	text-align:center; 
+}
+.tale {
+	color:#FA617A;
+	font-family: 'Baloo Paaji', cursive;
+	text-align:center;
+	margin-top:2%;
+}
+.parrafo-blanco {
+	color:white;
+	font-family: 'Prompt', sans-serif;
+	font-size:95%;
+	padding:10% 2%;
+}
+/*termino estilos seccion conejos row */
+.parrafo-negro {
+	font-family: 'Prompt', sans-serif;
+	font-size:90%;
+	margin:2%;
+}
+.date {
+	font-family: 'Prompt', sans-serif;
+	font-size:100%;
+	margin-left:3%;
+	margin-top:5%;
+}
+.caja-ginger {
+	background-color:#CBF2E7;
+	text-align:justify;
+	padding-bottom:5%
+}
+.ginger {
+	margin-top:5%;
+	display:block;
+	width:100%;
+}
+.caja-video {
+	width:100%;
+	background-color:#CBF2E7;
+	text-align:justify;
+	padding-bottom:1%
+}
+iframe {
+	padding-bottom:6%;
+}
+.search {
+	background-color:#CBF2E7;
+	border-radius:5px;
+	width:100%;
+	margin:6% 2%;
+	padding:4% 3%;
+}
+input[type="text"] {
+  	color:#3c3c3c;
+	font-size: 18px;
+	border-radius: 0;
+	line-height: 22px;
+	background-color: #fbfbfb;
+	padding:2% 4%;
+	margin-bottom: 10px;
+	width:95%;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+  	border: 1px solid white;
+  	border-radius:3px;
+}
+.fondo-azul {
+	background-color:#18B7B5;
+	padding:1% 1%;
+}
+.bun-after-search {
+	margin-top:1%;
+	width:100%;
+	display:block;
+}
+.caja-dos {
+	background-color:#CBF2E7;
+	margin-left:2%;
+	text-align:justify;
+	padding:5%;
+}
+.icon {
+	margin-top:20%;
+	display:inline-block;
+	color:#18B7B5;
+}
+.bun-blanco {
+	margin-top:7%;
+}
+.bunny-head {
+	background:url(../img/bunny-head.png);
+	background-repeat: repeat-x;
+	height:100px;
+	background-size:12%;
+	margin-top:1%;
+}
+footer {
+	background-color:#18B7B5;
+	color:white;
+	font-family: 'Prompt', sans-serif;
+	padding:3%;
+	border-top:1px solid #FA617A;
+}

@@ -1,0 +1,24 @@
+@media only screen and (max-width: 768px) {
+	.caja-desaparece{
+		display:none;
+	}
+	iframe {
+		width:100%;
+		height:190px;
+	}
+	.row-fondo-blanco {
+		padding:5%;
+	}
+	.parrafo-blanco {
+		padding-bottom:10%;
+	}
+	.row-fondo-azul{
+		padding:5%;
+	}
+	nav {
+		display:none;
+	}
+	.menu-desplegable {
+		display:block;
+	}
+}
